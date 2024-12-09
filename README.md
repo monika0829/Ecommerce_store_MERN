@@ -23,7 +23,7 @@
 
  
 **For Backend**
- 1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
+ 1. `git clone https://github.com/Monika0829/e-commerce-store.git`
  2. `cd e-comerce-backend`
  3. `npm i`
  4. `npm run data:import`
